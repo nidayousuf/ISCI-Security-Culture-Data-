@@ -29,13 +29,13 @@ All files are provided in **PDF format** for accessibility and consistency.
 
 ### Interview Data (Qualitative)
 
-- `managers_supervisors.pdf`  
+- `managers_supervisors_interviews_responses.pdf`  
   → Interview responses from managerial roles  
 
-- `technical_staff.pdf`  
+- `Technical_staff_interviews_responses.pdf`  
   → Interview responses from IT and security personnel  
 
-- `non_technical_staff.pdf`  
+- `non_technical_staff_interviews_responses.pdf`  
   → Interview responses from general employees  
 
 ---
@@ -49,7 +49,7 @@ All files are provided in **PDF format** for accessibility and consistency.
 
 ### Thematic Analysis
 
-- `thematic_coding.pdf`  
+- `thematic_coding_table.pdf`  
   → Thematic coding table used to derive research themes  
 
 ---
